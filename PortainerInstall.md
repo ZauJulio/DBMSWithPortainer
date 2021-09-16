@@ -8,7 +8,7 @@ If you're just starting out on your container journey or you're looking to speed
 
 ## 1. Install Portainer
 
-### 1.1 Creaate Volume to Portainer
+### 1.1 Create Volume to Portainer
 
 ```sh
 docker volume create portainer_data
